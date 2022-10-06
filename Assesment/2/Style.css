@@ -55,11 +55,12 @@
     display: flex;
 }
 
-body{
+.abc{
     border: 10px solid yellowgreen;
     background-image: url(img/sky-sunset.jpg);
     background-size: cover;
     border-style: ridge;
+    sc
 }
 
 .ab{
@@ -114,8 +115,20 @@ body{
     font-weight: bolder;
     color: rgb(78, 5, 146);
     width: 350px;
+    height: 250px;
     margin: 50px;
     text-align:center;
 }
 
+.ijk{
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 30px;
+    font-weight: bolder;
+    color: rgb(78, 5, 146);
+    width: 350px;
+    height: 300px;
+    margin: 50px;
+    text-align:center;
+}
 
